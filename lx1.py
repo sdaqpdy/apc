@@ -6,3 +6,4 @@ if s==1:
 else:
     print('err')
 print('All right')
+print ('you')
