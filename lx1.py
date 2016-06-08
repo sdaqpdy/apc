@@ -5,3 +5,4 @@ if s==1:
     print ('s=1')
 else:
     print('err')
+print('All right')
